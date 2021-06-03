@@ -1,29 +1,20 @@
 {
-  "name": "gaomingcode/intl-tel-input",
-  "version": "17.0.13",
-  "description": "A JavaScript plugin for entering and validating international telephone numbers",
-  "keywords": [
-    "international",
-    "i18n",
-    "country",
-    "dial",
-    "code",
-    "telephone",
-    "tel",
-    "number",
-    "mobile",
-    "input",
-    "flag"
-  ],
-  "homepage": "https://github.com/jackocnr/intl-tel-input",
-  "type": "library",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Jack O'Connor",
-      "homepage": "http://jackocnr.com"
-    }
-  ],
-  "minimum-stability": "stable",
-  "prefer-stable": true
+    "name": "gaomingcode/intl-tel-input",
+    "description": "A JavaScript plugin for entering and validating international telephone numbers",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "international", "i18n", "country", "dial", "code", "telephone", "tel", "number", "mobile", "input", "flag"
+    ],
+    "homepage": "https://github.com/jackocnr/intl-tel-input",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Jack O'Connor",
+            "homepage": "http://jackocnr.com"
+        }
+    ]
 }
