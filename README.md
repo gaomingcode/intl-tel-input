@@ -1,7 +1,23 @@
+
+# International Telephone Input
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/intl-tel-input.svg)](https://github.com/gaomingcode/intl-tel-input)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/intl-tel-input)](https://github.com/gaomingcode/intl-tel-input)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/intl-tel-input)](https://github.com/gaomingcode/intl-tel-input)
+
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/intl-tel-input
+```
+###
+
 #### IMPORTANT: since v14 we have removed the jQuery dependency. See below for how to initialise and use the plugin with pure JavaScript. If you want to stick with the jQuery version, there is now a separate jQuery wrapped version.
 ---
 
-# International Telephone Input [![Build Status](https://travis-ci.org/jackocnr/intl-tel-input.svg?branch=master)](https://travis-ci.org/jackocnr/intl-tel-input) <img src="https://img.shields.io/github/package-json/v/jackocnr/intl-tel-input.svg" /> <img src="https://img.shields.io/npm/dm/intl-tel-input.svg" />
 A JavaScript plugin for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods.
 
 <img src="https://raw.github.com/jackocnr/intl-tel-input/master/screenshots/vanilla.png" width="424" height="246" />
